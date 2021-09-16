@@ -4,11 +4,12 @@ h1{
 }
 
 p{
-
+    font-size: medium;
+    
 }
 
 .mijnAfbeelding{
     width: 100px;
-    height: 110px;
+    height: 100px;
 
 }
